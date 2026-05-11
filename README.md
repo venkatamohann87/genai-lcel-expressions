@@ -44,7 +44,7 @@ output_parser = StrOutputParser()
 
 chain = prompt | model | output_parser
 
-chain.invoke({"topic": "one piece"})
+chain.invoke({"topic": "sports"})
 ```
 
 
