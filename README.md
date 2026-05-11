@@ -90,7 +90,7 @@ inputs.invoke({"question": "what is the full form of LCEL?"})
 ## OUTPUT:
 ### Simple Chain:
 
-<img width="1377" height="404" alt="image" src="https://github.com/user-attachments/assets/adb39cbf-5478-4766-b780-47e9c3ea44f6" />
+<img width="1507" height="1013" alt="image" src="https://github.com/user-attachments/assets/59bee92a-8b6d-4bc9-b32c-11b3a29e27de" />
 
 
 
